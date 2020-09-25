@@ -1,0 +1,13 @@
+NOM,ALMACEN DE VIVERES BOGOTA
+SEC,Verduras,Verduras Frescas,1
+SEC,Frutas,Frutas Frescas,2
+SEC,Carnes,Carnes de res y cerdo,3
+SEC,Licores,Nacionales y Extranjeros,4
+PRD,Tomate,Tomate Chonto,1,200
+PRD,Manzana,Chilena Verde,2,500
+PRD,Pescado,Salmon,3,5000
+PRD,Vino,Vino Tinto,4,20000
+STK,Tomate,100
+STK,Manzana,80
+STK,Pescado,50
+STK,Vino,30
